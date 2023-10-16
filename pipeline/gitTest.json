@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "adls src-sink",
+				"name": "adls src-sink1",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
