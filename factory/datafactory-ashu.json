@@ -1,0 +1,9 @@
+{
+	"name": "datafactory-ashu",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5d14982f-6f7d-4c39-b88f-5a9bb0d7cfff",
+		"tenantId": "f4f499d1-234d-4b66-9b10-0746a1250674"
+	}
+}
